@@ -10,8 +10,8 @@ env/
 venv/
 
 # Output OCR text
-*.txt
 
+outputs/
 # IDE
 .vscode/
 .idea/
