@@ -1,0 +1,12 @@
+# Xử lý GUI
+tkinter ; sys_platform == "darwin" or sys_platform == "win32"  # Tkinter đi kèm Python, không cần pip install
+
+# Xử lý ảnh
+Pillow>=10.0.0
+
+# OCR
+pytesseract>=0.3.11
+
+# Chuyển PDF scan sang ảnh
+pdf2image>=1.16.3
+
