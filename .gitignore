@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Output OCR text
+*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
